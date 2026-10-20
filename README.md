@@ -1,4 +1,6 @@
-﻿# Image AI Upscaler
+**English** | [简体中文](README.zh-CN.md)
+
+# Image AI Upscaler
 
 A **Google Colab notebook** for AI-powered image upscaling using [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN). Upload an image and get it enhanced up to 32x resolution with sharpness control and metadata preservation.
 
